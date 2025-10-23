@@ -1,13 +1,13 @@
-body {
-  margin: 0;
-  font-family: "Microsoft YaHei", sans-serif;
-  background-image: url("封面背景图片.png");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center top;  color: #333;
-}
-
-.hero {
+body 
+{  margin: 0;  
+ font-family: "Microsoft YaHei", sans-serif; 
+  background-image: url("封面背景图片.png"); 
+  background-size: cover; 
+  background-attachment: fixed;  
+  background-position: center;  
+  color: #333;}.hero 
+{
+  
   height: 45vh;
   display: flex;
   justify-content: center;
