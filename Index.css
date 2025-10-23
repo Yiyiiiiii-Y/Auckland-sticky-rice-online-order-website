@@ -1,6 +1,6 @@
-@media (max-width: 768px) {
   body {
   margin: 0;
+  max-width: 768 px)
   font-family: "Microsoft YaHei", sans-serif;
   background-image: url("封面背景图片.png");
   background-size: cover;
