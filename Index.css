@@ -1,4 +1,5 @@
-body {
+@media (max-width: 768px) {
+  body {
   margin: 0;
   font-family: "Microsoft YaHei", sans-serif;
   background-image: url("封面背景图片.png");
