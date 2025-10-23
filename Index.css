@@ -6,6 +6,13 @@ body {
   background-attachment: fixed;
   background-position: center;  color: #333;
 }
+@media (max-width: 768px) {
+  body {
+    background-size: contain; /* 在手机上让整张图完整显示 */
+    background-position: center top; /* 居中显示上半部分 */
+    background-attachment: scroll; /* 移动端不使用固定背景 */
+  }
+}
 
 .hero {
   height: 45vh;
